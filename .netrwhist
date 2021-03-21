@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/chris/.config/nvim/plugin'
+let g:netrw_dirhist_7='/home/chris/sources/badoom/customer_request/services/return_label'
+let g:netrw_dirhist_6='/home/chris/sources/badoom'
+let g:netrw_dirhist_5='/home/chris/sources/badoom/.vim'
+let g:netrw_dirhist_4='/home/chris/sources/badoom'
+let g:netrw_dirhist_3='/home/chris'
+let g:netrw_dirhist_2='/home/chris/sources'
+let g:netrw_dirhist_1='/home/chris/sources/badoom'
+let g:netrw_dirhist_0='/home/chris/sources'
+let g:netrw_dirhist_9='/home/chris/sources/badoom'
